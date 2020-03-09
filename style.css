@@ -1,0 +1,37 @@
+*{
+  margin: 0px auto;
+}
+html{
+  background-color: #f5f5dc;
+}
+
+.row{
+  max-width: 1140px;
+}
+.content{
+  height: 500px;
+  width: 900px;
+  text-align: center;
+  position: flex;
+  align-content: center;
+}
+h1{
+  color: #708090;
+  font-size: 24pt;
+  text-align: center;
+  margin: 1em;
+}
+
+.about-me{
+  color: slategray;
+}
+.img-me{
+  border-radius: 50%;
+  max-height: 100px;
+  max-width: 100;
+}
+
+.img-row{
+  padding: 2em;
+  float: left;
+}
